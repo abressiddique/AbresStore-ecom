@@ -17,10 +17,10 @@ const Footer = () => {
           <p className="text-gray-600 mb-4">Email: abresstore@gmail.com</p>
           <p className="text-gray-600">Offices: Mumbai, Prayagraj</p>
           <div className="flex gap-4">
-            <a href="https://www.instagram.com" className="text-gray-600 hover:text-pink-600" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/abresstore/profilecard/?igsh=MTNqcjlmeXYybTczNQ==" className="text-gray-600 hover:text-pink-600" target="_blank" rel="noopener noreferrer">
               <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" className="w-6 h-6" />
             </a>
-            <a href="https://www.linkedin.com" className="text-gray-600 hover:text-pink-600" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/AbresStore" className="text-gray-600 hover:text-pink-600" target="_blank" rel="noopener noreferrer">
               <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" className="w-6 h-6" />
             </a>
           </div>
