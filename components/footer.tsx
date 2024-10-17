@@ -13,7 +13,7 @@ const Footer = () => {
         {/* Contact Section */}
         <div className="w-full lg:w-1/3 flex flex-col items-start">
           <h4 className="text-gray-800 text-lg font-semibold mb-4">Contact Us</h4>
-          <p className="text-gray-600">Phone: +91 1234567777</p>
+          <p className="text-gray-600">Phone: +91 9453300916</p>
           <p className="text-gray-600 mb-4">Email: abresstore@gmail.com</p>
           <p className="text-gray-600">Offices: Mumbai, Prayagraj</p>
           <div className="flex gap-4">
