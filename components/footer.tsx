@@ -28,9 +28,9 @@ const Footer = () => {
       </div>
 
       <div className="border-t border-gray-300 mt-8 pt-4 text-center">
-        <p className="text-gray-600">GST Number: 1234567890ABCDE</p> {/* Add your actual GST number here */}
+        <p className="text-gray-600">GST Number: 09AUC PS2880C1ZK</p> {/* Add your actual GST number here */}
         <p className="text-gray-500">
-          &copy; {new Date().getFullYear()} Abres India. All rights reserved.
+          &copy; {new Date().getFullYear()} Abres Store. All rights reserved.
         </p>
       </div>
     </footer>
