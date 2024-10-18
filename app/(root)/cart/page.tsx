@@ -70,7 +70,7 @@ const Cart = () => {
                     {cartItem.size && (
                       <p className="text-small-medium">{cartItem.size}</p>
                     )}
-                    <p className="text-small-medium">${cartItem.item.price}</p>
+                    <p className="text-small-medium">₹{cartItem.item.price}</p>
                   </div>
                 </div>
 
