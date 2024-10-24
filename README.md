@@ -4,6 +4,7 @@
 
 **AbresStore** is a modern eCommerce platform specializing in female clothing. Built with **Next.js**, it provides a seamless and responsive shopping experience, featuring secure payment processing with **Stripe**, real-time inventory management, and a clean, intuitive interface.
 
+
 ## Features
 
 - **Next.js 14.1.0**: Enables server-side rendering and optimized static generation for fast and scalable performance.
